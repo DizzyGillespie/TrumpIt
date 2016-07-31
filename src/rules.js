@@ -9,7 +9,7 @@ var SUFFIXES = [
     "a man so racist he makes George Wallace look politically correct",
     "a \"man of the people\" who lives in a golden apartment",
     "the best current argument against popular democracy",
-    "who has underperformed the market by all reliable estimates",
+    "who as a businessman underperformed the market by all reliable estimates",
     "heir to his father's real-estate fortune",
     "a man so self-obsessed he named all of his sons \"Donald\"",
     "whose wit is the only thing shorter than his fingers",
